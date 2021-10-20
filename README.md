@@ -9,6 +9,8 @@
 
 ## Github Activity
 <img src="https://github-readme-stats.vercel.app/api?username=nitishjatwar21&&show_icons=true&title_color=EFD310&icon_color=EF1010&text_color=1ACFE0&bg_color=151515">
+<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitishjatwar21&theme=radical" alt="nitishjatwar21" /></p>
 
 ## Language used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitishjatwar21&layout=compact)](https://github.com/nitishjatwar21/Food-Filler)
