@@ -1,7 +1,7 @@
 ### Hello 👋,I am Nitish Kumar Jatwar 
 
 - 🔭 Final year B.Tech, Computer Science and Engineering at NIT Raipur.
-- 🌱 I’m love coding and development.
+- 🌱 I love coding and development.
 - 💬 Fell Free to ask about Development, Coding Experience or any tech stack.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/nitish-jatwar-a49459171/">linkedin</a>
 - ⚡ Fun fact: Always like to explore and learn new things.
